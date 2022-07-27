@@ -1,0 +1,7 @@
+Describe the best project you have worked on, including links if any.
+
+-> I have worked on multiple projects with multiple techstacks i.e LAMP and MERN stack. I started my web development journey with LAMP stack and then shifted to MERN stack because of scalability issues. After coming to the MERN techstack, I built my two best projects one is a PICTIONARY game(a multiplayer game), and a house selling or renting website for one Malaysian startup(crib.my). I would consider crib.my as my best project till now. 
+
+Crib.my is a startup where I worked as a nextjs developer. In this project I have worked on so many APIs and I learnt to structure a project in the best manner like maintaining the all APIs in a single file and calling them from any file just by exporting each of them, etc. In that site, people can create their profile as seller or buyer. All the houses are available with multiple filters. Customer can get any type of houses they need. Sellers can upload the property details and their would be admins in backend to modify and approve the uploads to the site.
+
+Link: https://crib.my/
