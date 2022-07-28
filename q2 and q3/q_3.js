@@ -1,4 +1,4 @@
-var num=window.prompt("enter the number");
+var num=852;
 
 const reverse=(num)=>{
     num=parseFloat(
@@ -8,6 +8,6 @@ const reverse=(num)=>{
           .reverse()
           .join('')
       ) * Math.sign(num)
-    console.log(num);
+    return num;
 }
-reverse(num);
+console.log(reverse(num));
